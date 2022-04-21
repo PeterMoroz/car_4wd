@@ -2,7 +2,7 @@
 
 Servo servo;
 
-#define SERVO_PIN 11
+#define SERVO_PIN 8
 
 //Motor one
 #define IN1 2
